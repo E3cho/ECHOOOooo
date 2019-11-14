@@ -9033,14 +9033,14 @@ h1, h2, h3, h4, h5,
       .room-wrap.room-wrap-thumb a.thumb .img, .room-wrap.room-wrap-thumb a.thumb .text {
         height: inherit; } }
 
-.ftco-services-2 .services {
+.ftco-Skills-2 .Skills {
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease;
   z-index: 0; }
-  .ftco-services-2 .services .icon {
+  .ftco-Skills-2 .Skills .icon {
     line-height: 1.3;
     position: relative;
     margin-bottom: 20px;
@@ -9049,7 +9049,7 @@ h1, h2, h3, h4, h5,
     margin: 0 auto;
     z-index: 1;
     margin-bottom: 20px; }
-    .ftco-services-2 .services .icon:after {
+    .ftco-Skills-2 .Skills .icon:after {
       position: absolute;
       top: -10px;
       left: -10px;
@@ -9061,10 +9061,10 @@ h1, h2, h3, h4, h5,
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center center; }
-    .ftco-services-2 .services .icon span {
+    .ftco-Skills-2 .Skills .icon span {
       font-size: 60px;
       color: #fff; }
-  .ftco-services-2 .services .media-body h3 {
+  .ftco-Skills-2 .Skills .media-body h3 {
     font-size: 18px;
     font-weight: 400;
     letter-spacing: 1px;
