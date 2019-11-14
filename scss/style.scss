@@ -1275,8 +1275,8 @@ h1, h2, h3, h4, h5,
 	}
 }
 
-.ftco-Skills-2{
-	.Skills{
+.ftco-My Skills-2{
+	.My Skills{
 		@include transition(.3s);
 		z-index: 0;
 		.icon{
@@ -1376,8 +1376,8 @@ textarea.form-control {
 }
 
 
-//ABOUT
-.about-author{
+//About
+.About-author{
 	img{
 	}
 	.desc{
@@ -1794,14 +1794,14 @@ textarea.form-control {
 	}
 }
 
-.about-image{
+.About-image{
 	@include media-breakpoint-down(sm){
 		height: 400px;
 		margin-bottom: 30px;
 	}
 }
 
-.about-image{
+.About-image{
 	@include media-breakpoint-down(sm){
 		height: 400px;
 		margin-bottom: 30px;
