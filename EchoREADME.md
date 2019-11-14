@@ -1,3 +1,3 @@
 # ECHOOOooo
-Echo Mao's portfolio  
+Echo Mao's Portfolio  
 Yes, I learnt how to clone
